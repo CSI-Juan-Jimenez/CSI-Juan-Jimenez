@@ -2,7 +2,7 @@
 
 ### My name is Juan Pablo Jiménez Blanco
 ### Who am I?
-I am in eight grade in Colegio San Ignacio de Loyola. I like to fix electronics, and play guitar. I also like to play waterpolo and study. My favorite videogames are roblox, minecraft and terraria.
+I am in eight grade in Colegio San Ignacio de Loyola. I like to fix electronics, and play guitar. I also like to play waterpolo and study. My favorite videogames are Rblox, Minecraft and Terraria.
 
 ### Hobbies:
 * Restoring and using electronics
