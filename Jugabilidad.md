@@ -2,7 +2,7 @@
 
 ## Personajes
 
-### El personaje es el objeto o los objetos que tu controlas. En Geometry Dash, el personaje es el cubo que brinca cuando tocas la pantalla.
+### El personaje es lo que tu controlas. En Geometry Dash, el personaje es el cubo que brinca cuando tocas la pantalla.
 
 ## Objetos
 
