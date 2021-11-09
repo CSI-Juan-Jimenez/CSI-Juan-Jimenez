@@ -13,7 +13,7 @@
 ## Mecánica
 
 #### La mecánica es la acción que más se hace en el juego. Puede ser acciones como correr, nadar o volar.
-#### En Geometry Dash, cada personaje hace su propia acción, ademas de moverte hacía la derecha o izquierda y brincar. El "Icon" es un cubo que brinca si tocas la pantalla. El "Ship" vuela y si tocas o dejas apretada la pantalla, sube y si la sueltas, baja El "Ball" rueda y si tocas la pantalla se puede ir del techo al piso o viceversa. El "Ufo" es parecido al "Ship" excepto que se cae más rápido si dejas de tocar la pantalla. Los controles del "Wave" son parecidos al del "Ship", pero el "Wave" va diagonal para arriba y para abajo. El "Robot" es casi como el "Icon" excepto que su brinco tiene más distancia. Por 
+#### En Geometry Dash, cada personaje hace su propia acción, ademas de moverte hacía la derecha o izquierda y brincar. El "Icon" es un cubo que brinca si tocas la pantalla. El "Ship" vuela y si tocas o dejas apretada la pantalla, sube y si la sueltas, baja El "Ball" rueda y si tocas la pantalla se puede ir del techo al piso o viceversa. El "Ufo" es parecido al "Ship" excepto que se cae más rápido si dejas de tocar la pantalla. Los controles del "Wave" son parecidos al del "Ship", pero el "Wave" va diagonal para arriba y para abajo. El "Robot" es casi como el "Icon" excepto que su brinco tiene más distancia. Por último, el "Spider" es similar al "Ball" excepto que se teleportea.
 
 ## Objetivos y Reglas
 
