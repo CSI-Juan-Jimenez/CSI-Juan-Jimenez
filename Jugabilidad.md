@@ -2,15 +2,18 @@
 
 ## Personajes
 
-### El personaje es lo que tu controlas. En Geometry Dash, el personaje es el cubo que brinca cuando tocas la pantalla.
+#### El personaje es lo que tu controlas. Puede ser muchas cosas como un humano, un cubo, etc.
+#### En Geometry Dash, hay varios personajes. Los personajes son el "Icon", "Ship", "Ball", "Ufo", "Wave", "Robot" y "Spider".
 
 ## Objetos
 
-### Los objetos son las cosas con las que el personaje interactua. En Geometry Dash hay varios objetos. Estan los "secret coins", los "silver coins", las puyas y todas las cosas que te matan si las tocas, los bloques que te matan, los portales, etc.
+#### Los objetos son las cosas con las que el personaje interactua. Pueden ser "power-ups", monedas, entre otras cosas.
+#### En Geometry Dash hay varios objetos. Estan los "secret coins", los "silver coins", las puyas y todas las cosas que te matan si las tocas, los bloques que te matan, los portales, etc.
 
 ## Mecánica
 
-### La mecánica es la acción que más se hace en el juego. En Geometry Dash, las dos acciones primarias son moverte hacía la derecha o izquierda y brincar. 
+#### La mecánica es la acción que más se hace en el juego. Puede ser acciones como correr, nadar o volar.
+#### En Geometry Dash, cada personaje hace su propia acción, ademas de moverte hacía la derecha o izquierda y brincar. El "Icon" brinca si le das a la pantalla, el "Ship
 
 ## Objetivos y Reglas
 
