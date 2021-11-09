@@ -1,15 +1,13 @@
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette1.wikia.nocookie.net%2Fgeometry-dash%2Fimages%2Ff%2Ff7%2FStereoMadness.png%2Frevision%2Flatest%3Fcb%3D20160311172128&f=1&nofb=1"
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Fgeometry-dash%2Fimages%2F9%2F90%2FGeometryDash.png%2Frevision%2Flatest%3Fcb%3D20160224042843&f=1&nofb=1"
      tittle="GD"
-     width="50%"
-     height="50%" />
-     
+     width="10%"
+     height="10%" />
 <br>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette1.wikia.nocookie.net%2Fgeometry-dash%2Fimages%2Ff%2Ff7%2FStereoMadness.png%2Frevision%2Flatest%3Fcb%3D20160311172128&f=1&nofb=1"
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fban-game-1.gamewise.co%2FGeometry-Dash-346202-full.jpeg&f=1&nofb=1"
      tittle="GD"
      width="50%"
      height="50%" />
-     
 <br>
 # Elementos de la Jugabilidad: Geometry Dash
 
