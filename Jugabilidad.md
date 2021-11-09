@@ -1,3 +1,6 @@
+# Elementos de la Jugabilidad: Geometry Dash
+
+
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Fgeometry-dash%2Fimages%2F9%2F90%2FGeometryDash.png%2Frevision%2Flatest%3Fcb%3D20160224042843&f=1&nofb=1"
      tittle="GD"
      width="10%"
@@ -9,7 +12,6 @@
      width="50%"
      height="50%" />
 <br>
-# Elementos de la Jugabilidad: Geometry Dash
 
 ## Personajes
 
