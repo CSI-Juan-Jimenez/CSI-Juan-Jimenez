@@ -9,7 +9,7 @@ height="20%" />
 <h3> Ingredients: </h3>
 
 <ul>
-<li>coffee</li>
+<li>Coffee</li>
 <li>Tea</li>
 <li>Milk</li>  
 </ul>
