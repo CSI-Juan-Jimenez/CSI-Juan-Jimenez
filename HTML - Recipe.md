@@ -9,13 +9,41 @@ height="30%" />
 <h3> <b>Ingredients:</b> </h3>
 
 <ul>
-            <li>Evaporated Milk 2%</li>
-            <li>Codensed Milk</li>
+            <li>2% fat evaporated milk</li>
+            <img        src=""
+                 title=""
+                 width=""
+                 height="" />
+            <li>Codensed milk</li>
+            <img        src=""
+                 title=""
+                 width=""
+                 height="" />
             <li>Eggs</li>  
+            <img        src=""
+                 title=""
+                 width=""
+                 height="" />            
             <li>Cinnamon</li>
-            <li>One tablespoon of vanilla Extract</li>
+            <img        src=""
+                 title=""
+                 width=""
+                 height="" />            
+            <li>One tablespoon of vanilla xtract</li>
+            <img        src=""
+                 title=""
+                 width=""
+                 height="" />
             <li>One bar of Philadelphia cheese</li>
+            <img        src=""
+                 title=""
+                 width=""
+                 height="" />
             <li>2 cups of sugar</li>
+             <img        src=""
+                 title=""
+                 width=""
+                 height="" />
             
 </ul>
 
