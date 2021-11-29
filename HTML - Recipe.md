@@ -1,5 +1,5 @@
 <h1> HTML Cheese Flan Recipe </h1>
-<h2> Christmas Recipe: Cheese Flan </h2>
+<h2> <font color="green">Christmas Recipe: Cheese Flan </font> </h2> 
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4.bp.blogspot.com%2F-uCHNrOrfKg0%2FWw17XDIn23I%2FAAAAAAAAPy4%2FOza0GPjB91Q3Hfy50rKlZoczSd7-ciYBwCLcBGAs%2Fs1600%2FFlan-de-queso-portad.jpg&f=1&nofb=1"
 title="Tres Leches"
@@ -26,6 +26,7 @@ height="30%" />
             <li>Mix thoroughly</li>
             <li>Place the sugar in a Pyrex measuring cup</li>
             <li>Put 3 tablespoons of water on the measuring cup</li>
-            <li>Put the measuring cup for 3 minutes in the microwave</li>
-            <li>Pla</li>
+            <li>Put the measuring cup for 3 minutes in the microwave to make caramel</li>
+            <li>Put the caramel on a mold</li>
+            <li>Pour the mix from the bleder on the mold</li>
 </ol>
