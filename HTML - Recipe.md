@@ -27,6 +27,7 @@ height="30%" />
             <li>Place the sugar in a Pyrex measuring cup</li>
             <li>Put 3 tablespoons of water on the measuring cup</li>
             <li>Put the measuring cup for 3 minutes in the microwave to make caramel</li>
-            <li>Put the caramel on a mold</li>
-            <li>Pour the mix from the bleder on the mold</li>
+            <li>Put the caramel on a bundt cake pan</li>
+            <li>Pour the mix from the bleder on the bundt cake pan</li>
+            <li>Put the bundt cake pan in the oven</li> 
 </ol>
