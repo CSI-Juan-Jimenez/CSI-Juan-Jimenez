@@ -1,5 +1,5 @@
 
-<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Pestily </b></h1>
+<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Psivewri </b></h1>
 
 <div align="center">
     <img    src="https://yt3.ggpht.com/ytc/AKedOLRr6_Q8yPyhMO_t8BaPUFh7S-Thuwhe6j8_Gfha5w=s900-c-k-c0x00ffffff-no-rj"
@@ -14,7 +14,7 @@
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-    Pestily is a popular streamer that plays my favorite game, Escape From Tarkov. At the time that i wrote this page, he has over half a million subscribers on youtube and over a million on twitch. He has stood out through informative content, MLG skills and charitable livestream events. His content aims to be for viewers of all ages, even though EFT is a realistic FPS.
+ 
 </p>
 
 <br>
