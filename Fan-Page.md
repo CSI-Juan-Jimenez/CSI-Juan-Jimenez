@@ -1,4 +1,4 @@
-
+            
 <h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Psivewri </b></h1>
 
 <div align="center">
@@ -31,7 +31,7 @@
 <table>
     <tr>
         <th>Name</th>
-        <td>Paul</td>
+        <td>Nathan</td>
     </tr>
     <tr>
         <th>Age</th>
@@ -55,7 +55,7 @@
     </tr>
     <tr>
         <th>Youtube</th>
-        <td>@pestily</td>
+        <td>@pPsivewri</td>
     </tr>
     <tr>
         <th>Twitch</th>
