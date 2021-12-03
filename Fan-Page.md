@@ -3,7 +3,7 @@
 
 <div align="center">
     <img    src="https://yt3.ggpht.com/ytc/AKedOLTrz95RX3qGzm2uaCyFZV6C7pRKglCDp1IsqxH3WA=s176-c-k-c0x00ffffff-no-rj"
-            title="Psivewri"
+            title="Psiewri"
             width="20%"
             height="20%" 
             />
