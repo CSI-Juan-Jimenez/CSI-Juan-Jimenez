@@ -3,13 +3,13 @@
 
 <div align="center">
     <img    src="https://yt3.ggpht.com/ytc/AKedOLTrz95RX3qGzm2uaCyFZV6C7pRKglCDp1IsqxH3WA=s176-c-k-c0x00ffffff-no-rj"
-            title="Pestily"
+            title="Psivewri"
             width="20%"
             height="20%" 
             />
 </div>
 
-<h2 align="center" > Acting, streaming, sports or other personality Fan Page!</h2>
+<h2 align="center" > Gaming, tech reviewing, tech restoringFan Page!</h2>
 
 <br>
 
