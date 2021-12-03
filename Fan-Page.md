@@ -9,8 +9,6 @@
             />
 </div>
 
-<h2 align="center" > Gaming, tech reviewing, tech restoringFan Page!</h2>
-
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
