@@ -3,16 +3,18 @@
 
 <div align="center">
     <img    src="https://yt3.ggpht.com/ytc/AKedOLTrz95RX3qGzm2uaCyFZV6C7pRKglCDp1IsqxH3WA=s176-c-k-c0x00ffffff-no-rj"
-            title="Psiewri"
+            title="Psivewri"
             width="20%"
             height="20%" 
             />
 </div>
 
+<h2 align="center" >Gaming, Tech Reviewing, Tech Repairing, and more Fan Page!</h2>
+
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
- 
+Psivewri is a YouTube channel that posts many videos about things I like. Psi
 </p>
 
 <br>
