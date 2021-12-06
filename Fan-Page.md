@@ -20,7 +20,7 @@ Psivewri is a YouTube channel that posts many videos about things I like. He pos
 <br>
 
 <div align="center">
-    <img    src="https://www.dexerto.com/wp-content/uploads/2020/03/pestily-talks-fast-levelling-escape-from-tarkov-flea-market.png"
+    <img    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.xFvn-JdlFa4g3PVQ_Zxs6gHaEK%26pid%3DApi&f=1"
             title="Pestily"
             width="50%"
             height="50%" 
@@ -29,6 +29,11 @@ Psivewri is a YouTube channel that posts many videos about things I like. He pos
 
 <br>
 
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+Psivewri also makes gaming videos. He has played various games in his channel. He played Happy Wheels, Minecraft and many other games. His minecraft videos are the ones I like because he does some challenges like the underground survival series, which consisted of trying to survive without going to the surface.
+</p>
+
+<br>
 
 <table>
     <tr>
