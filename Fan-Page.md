@@ -9,12 +9,12 @@
             />
 </div>
 
-<h2 align="center" >Gaming, Tech Reviewing, Tech Repairing, and more Fan Page!</h2>
+<h2 align="center" >Gaming, Tech Reviewing, Tech Restoring, and more Fan Page!</h2>
 
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-Psivewri is a YouTube channel that posts many videos about things I like. Psi
+Psivewri is a YouTube channel that posts many videos about things I like. He posts videos about gaming, tech reviewing, and my favorite thing, tech restoring. Psivewri's real name is Natan Sivewright and he is a photographer. He joined YouTube in 2006, and has been posting videos since 2009.
 </p>
 
 <br>
