@@ -46,7 +46,7 @@ Psivewri also makes gaming videos. He has played various games in his channel. H
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-The videos that I most like are his tech restoring ones, because that is my hobby. He has restored many devices, laptops, desktops, etc. He keeps most of the devices in his computer collection and sometimes he sells them or gives them to charity. It is cool to watch the videos where he restores old devices because most of them are easier to repair than new devices. 
+The videos that I most like are his tech restoring ones, because that is my hobby. He has restored many devices, laptops, desktops, etc. It is cool to watch the videos where he restores old devices because most of them are easier to repair than new devices. After he fixes the device, he keeps most of them and sometimes he sells them or gives them to charity. 
 </p>
 
 <br>
