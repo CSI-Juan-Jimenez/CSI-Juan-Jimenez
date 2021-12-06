@@ -30,7 +30,23 @@ Psivewri is a YouTube channel that posts many videos about things I like. He pos
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-Psivewri also makes gaming videos. He has played various games in his channel. He played Happy Wheels, Minecraft and many other games. His minecraft videos are the ones I like because he does some challenges like the underground survival series, which consisted of trying to survive without going to the surface.
+Psivewri also makes gaming videos. He has played various games in his channel. He played Happy Wheels, Minecraft and many other games. His minecraft videos are the ones I like because he does some challenges like the underground survival series, which consisted of trying to survive without going to the surface. On some of his videos, he tries to game on old devices or very cheap ones, which are also fun to watch.
+</p>
+
+<br>
+
+<div align="center">
+    <img    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ziSAYyyYzYJuppfS7fj-uAHaEK%26pid%3DApi&f=1"
+            title="Pestily"
+            width="50%"
+            height="50%" 
+            />
+</div>
+
+<br>
+
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+The videos that I most like are his tech restoring ones, because that is my hobby. He has restored many devices, laptops, desktops, etc.
 </p>
 
 <br>
