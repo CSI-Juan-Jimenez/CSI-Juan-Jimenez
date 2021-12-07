@@ -57,7 +57,7 @@ The videos that I most like are his tech restoring ones, because that is my hobb
 <h3 align="center" >Other Stuff</h3>
 
 <div align="center">
-    <img    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ziSAYyyYzYJuppfS7fj-uAHaEK%26pid%3DApi&f=1"
+    <img    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.yJMd0YwBBbS4Is_nByCRpgHaEK%26pid%3DApi&f=1"
             title="iMac"
             width="50%"
             height="50%" 
