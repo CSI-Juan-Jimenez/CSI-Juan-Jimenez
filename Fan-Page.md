@@ -19,6 +19,10 @@ Psivewri is a YouTube channel that posts many videos about things I like. He pos
 
 <br>
 
+<h2 align="center" >Gaming</h2>
+
+<br>
+
 <div align="center">
     <img    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.xFvn-JdlFa4g3PVQ_Zxs6gHaEK%26pid%3DApi&f=1"
             title="Pestily"
