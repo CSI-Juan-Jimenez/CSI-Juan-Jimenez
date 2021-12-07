@@ -76,6 +76,8 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
 
 <br>
 
+<div align="center">
+
 <table>
     <tr>
         <th>Name</th>
@@ -119,6 +121,7 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
         <td>Alex (Younger Brother)</td>
     </tr>             
 </table>
+            </div>
 
 
 <br><br>
