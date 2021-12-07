@@ -75,7 +75,7 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
 <table>
     <tr>
         <th>Name</th>
-        <td>Nathan</td>
+        <td>Nathan Sivewright</td>
     </tr>
     <tr>
         <th>Age</th>
@@ -92,7 +92,7 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
     <tr>
         <th>Instagram</th>
         <td><a href="https://www.instagram.com/nathan_sivewright
-"> @thisispestily</td>
+"> @nathansivewright</td>
     </tr>
     <tr>
         <th>Twitter</th>
@@ -103,8 +103,8 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
         <td><a href="https://www.youtube.com/c/psivewri/featured">@Psivewri</td>
     </tr>
     <tr>
-        <th>Twitch</th>
-        <td><a href="https://www.twitch.tv/pestily"> @pestily </a></td>
+        <th>TikTok</th>
+        <td><a href="https://www.tiktok.com/@psivewri?"> @psivewri </a></td>
     </tr>
 </table>
 
@@ -112,5 +112,5 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
 <br><br>
 
 <p>
-    <i>Made by: <u>Carlos Jose Cobian</u> on December 2, 2021</i>
+    <i>Made by: <u>Juan Pablo Jiménez Blanco</u> on December 7, 2021</i>
 </p>
