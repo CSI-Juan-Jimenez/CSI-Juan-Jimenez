@@ -76,6 +76,9 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
 
 <br>
 
+<h2 align="center" >Interesting Facts</h2>
+
+
 <div align="center">
 
 <table>
