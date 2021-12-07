@@ -23,11 +23,13 @@ Psivewri is a YouTube channel that posts many videos about things I like. He pos
 
 <div align="center">
     <img    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.xFvn-JdlFa4g3PVQ_Zxs6gHaEK%26pid%3DApi&f=1"
-            title="Pestily"
+            title="Happy wheels Episode #2"
             width="50%"
             height="50%" 
             />
+
 </div>
+
 
 <br>
 
@@ -50,7 +52,7 @@ Psivewri also makes gaming videos. He has played various games in his channel. H
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-The videos that I most like are his tech restoring ones, because that is my hobby. He restores many types of devices like laptops and desktops. He also restores devices from very different eras. He has restored desktops from the 1980's, to some very modern iMacs. I have learned a lot from these videos because Psivewri explains what you have to do, and in many cases, the insides of the computer are very messy and hard to understand what is going on. 
+The videos that I like the most are his tech restoring ones, because that is my hobby. He restores many types of devices like laptops and desktops. He also restores devices from very different eras. He has restored desktops from the 1980's, to some modern iMacs. I have learned a lot from these videos because Psivewri explains what you have to do, and in many cases, the insides of the computer are very messy and hard to understand what is going on. 
 </p>
 
 <br>
