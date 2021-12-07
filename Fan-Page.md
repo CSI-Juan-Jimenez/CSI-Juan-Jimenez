@@ -14,7 +14,7 @@
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-Psivewri is a YouTube channel that posts many videos about things I like. He posts videos about gaming, tech reviewing, and my favorite thing, tech restoring. Psivewri's real name is Natan Sivewright and he is a photographer. He joined YouTube in 2006, and has been posting videos since 2009.
+Psivewri is a YouTube channel that posts many videos about things I like. He posts videos about gaming, tech reviewing, and my hobby: tech restoring. Psivewri's real name is Natan Sivewright and he is a photographer. He joined YouTube in 2006, and has been posting videos since 2009.
 </p>
 
 <br>
@@ -54,7 +54,7 @@ The videos that I most like are his tech restoring ones, because that is my hobb
 </p>
 
 <br>
-<h3 align="center" >Gaming, Tech Reviewing, Tech Restoring, and more Fan Page!</h3>
+<h3 align="center" >Other Stuff</h3>
 
 <div align="center">
     <img    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ziSAYyyYzYJuppfS7fj-uAHaEK%26pid%3DApi&f=1"
