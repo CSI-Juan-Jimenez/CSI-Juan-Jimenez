@@ -107,7 +107,7 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
         <td><a href="https://www.tiktok.com/@psivewri?"> @psivewri </a></td>
     </tr>
     <tr>
-        <th>Videos (As of 7/dic/2021)</th>
+        <th>Videos (As of December 7, 2021)</th>
         <td>359</td>
     </tr>        
 </table>
