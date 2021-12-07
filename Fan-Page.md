@@ -109,7 +109,11 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
     <tr>
         <th>Videos (As of December 7, 2021)</th>
         <td>359</td>
-    </tr>        
+    </tr>   
+ <tr>
+        <th>Videos (As of December 7, 2021)</th>
+        <td>359</td>
+    </tr>             
 </table>
 
 
