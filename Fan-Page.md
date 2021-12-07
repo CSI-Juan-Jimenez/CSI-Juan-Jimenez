@@ -32,7 +32,7 @@ Psivewri is a YouTube channel that posts many videos about things I like. He pos
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-Psivewri also makes gaming videos. He has played various games in his channel. He played Happy Wheels, Minecraft and many other games. His minecraft videos are the ones I like because he does some challenges like the underground survival series, which consisted of trying to survive without going to the surface. On some of his videos, he tries to game on old devices or very cheap ones, which are also fun to watch.
+Psivewri also makes gaming videos. He has played various games in his channel. He played Happy Wheels, Minecraft and many other games. His minecraft videos are the ones I like because he does some challenges like the underground survival series, which consisted of trying to survive without going to the surface. On some of his videos, he tries to game on old or cheap devices, like when he gamed on a laptop from 2008.
 </p>
 
 <br>
