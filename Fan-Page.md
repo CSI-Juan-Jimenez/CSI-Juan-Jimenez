@@ -9,7 +9,7 @@
             />
 </div>
 
-<h2 align="center" >Gaming, Tech Reviewing, Tech Restoring, and more Fan Page!</h2>
+<h2 align="center" >Gaming, Tech Restoring, and more Fan Page!</h2>
 
 <br>
 
@@ -39,9 +39,13 @@ Psivewri also makes gaming videos. He has played various games in his channel. H
 
 <br>
 
+<h2 align="center" >Tech Restoring</h2>
+
+<br>
+
 <div align="center">
     <img    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ziSAYyyYzYJuppfS7fj-uAHaEK%26pid%3DApi&f=1"
-            title="Pestily"
+            title="iMac"
             width="50%"
             height="50%" 
             />
