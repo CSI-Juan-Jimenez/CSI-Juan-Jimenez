@@ -91,7 +91,8 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
     </tr>
     <tr>
         <th>Instagram</th>
-        <td>@thisispestily</td>
+        <td><a href="https://www.instagram.com/nathan_sivewright
+"@thisispestily</td>
     </tr>
     <tr>
         <th>Twitter</th>
