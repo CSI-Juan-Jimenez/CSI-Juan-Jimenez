@@ -67,7 +67,7 @@ The videos that I most like are his tech restoring ones, because that is my hobb
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-Not all Psivewri's videos are about restoring tech or gaming. He makes videos in which he reviews tech, tests tech or funny challenges. A really funny video is the blended McDonald's challenge. In this video, he blends McDonald's food in a blender, and drinks it. He has made many videos about testing tech, for example the when he used a 30$ iPhone 3GS.
+Not all Psivewri's videos are about restoring tech or gaming. He makes videos in which he reviews tech, tests tech or funny challenges. A really funny video is the blended McDonald's challenge. In this video, he blends McDonald's food in a blender and drinks it. He has made many videos about testing tech, for example the when he used a 30$ iPhone 3GS.
 </p>
 
 <br>
@@ -79,11 +79,11 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
     </tr>
     <tr>
         <th>Age</th>
-        <td>34</td>
+        <td>25</td>
     </tr>
     <tr>
-        <th>Birthday</th>
-        <td>7th November</td>
+        <th>Job</th>
+        <td>Photographer</td>
     </tr>
         <tr>
         <th>Nationality</th>
@@ -95,11 +95,11 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
     </tr>
     <tr>
         <th>Twitter</th>
-        <td>@pestily</td>
+        <td><a href="https://twitter.com/NathanPSI"> @NatanPSI</td>
     </tr>
     <tr>
         <th>Youtube</th>
-        <td>@pPsivewri</td>
+        <td><a href="https://www.youtube.com/c/psivewri/featured">@Psivewri</td>
     </tr>
     <tr>
         <th>Twitch</th>
