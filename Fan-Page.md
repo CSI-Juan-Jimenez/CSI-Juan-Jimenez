@@ -111,8 +111,8 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
         <td>359</td>
     </tr>   
  <tr>
-        <th>Videos (As of December 7, 2021)</th>
-        <td>359</td>
+        <th>Siblings</th>
+        <td>Alex (Younger Brother)</td>
     </tr>             
 </table>
 
