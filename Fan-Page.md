@@ -130,5 +130,5 @@ Not all Psivewri's videos are about restoring tech or gaming. He makes videos in
 <br><br>
 
 <p>
-    <i>Made by: <u>Juan Pablo Jiménez Blanco</u> on December 7, 2021</i>
+    <i>Made by:<p style =" font-family:Party let; font-size:200%">Juan Pablo Jiménez Blanco</p>on December 7, 2021</i>
 </p>
